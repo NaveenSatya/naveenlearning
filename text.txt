@@ -1,1 +1,2 @@
 hai this is my first repo in GIT
+created my first repo done push in intellij and pull in the server side
