@@ -7,8 +7,7 @@
 echo $0
 
 ## $1 is the first argument and $n is the nth argument
-echo $n
-
+echo $1
 ##  Pull all the parsed values
 echo $*
 echo $@
