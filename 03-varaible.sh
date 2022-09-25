@@ -1,4 +1,4 @@
-#!/usr/bin/bash/
+#!/usr/bin/bash
 
-a = 10
+a=10
 echo naveen = $a
