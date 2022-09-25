@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-read -p 'Enter your Name: ' name
+read -p 'Enter your Name: ' satya
 
-echo "Your Name = $name"
+echo "Your Name = $satya"
