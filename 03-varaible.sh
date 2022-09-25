@@ -1,4 +1,7 @@
 #!/usr/bin/bash
 
-a=10
-echo naveen = $a
+A=10
+echo A = $A
+
+
+echo COURSE NAME = ${COURSE_NAME}
